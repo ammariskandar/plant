@@ -1,4 +1,6 @@
+E-Commerce website for IBM Coursera Course
 
+File Structure:
 ```
 IBM Coursera
 ├─ Frontend
